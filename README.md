@@ -3,10 +3,10 @@
 Este proyecto consiste en una aplicación móvil creada con React Native y Expo que muestra una lista de los valores actuales de las criptomonedas utilizando la API de coingecko. La interfaz de usuario es elegante y se pueden filtrar las criptomonedas por nombre o abreviación. 
 
 ## Tecnologías principales
-![icono de React Native](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React Native
-![icono de JavaScript](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/JavaScript_gvi1sz.png) JavaScript
-![icono de Expo](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/Expo_cyjbk1.png) Expo
-![icono de API coingecko](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676608485/Iconos/CoinGecko_wu0dgy.png) API coingecko
+![icono de React Native](https://res.cloudinary.com/dyvccdkkl/image/upload/v1675896866/Iconos/React_yhyy73.png) React Native  
+![icono de JavaScript](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/JavaScript_gvi1sz.png) JavaScript  
+![icono de Expo](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676090888/Iconos/Expo_cyjbk1.png) Expo  
+![icono de API coingecko](https://res.cloudinary.com/dyvccdkkl/image/upload/v1676608485/Iconos/CoinGecko_wu0dgy.png) API coingecko  
 StyleSheet
 
 ## Capturas de pantalla
