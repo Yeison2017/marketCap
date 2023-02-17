@@ -20,7 +20,7 @@ Este proyecto fue creado a partir de un video tutorial en el canal de "Fazt Code
 ## Link
 Para probar la aplicación, puedes escanear el siguiente código QR con la aplicación de Expo Go:
 
-![QR de la app](./assets/qr-code.jpg)
+![QR de la app](./assets/screenshots/qr-code.jpg)
 
 También puedes descargar la aplicación de Expo Go desde las siguientes tiendas de aplicaciones:
 - [Expo Go en Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
